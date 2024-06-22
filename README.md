@@ -1,4 +1,4 @@
-WinDoS - Windows DDoS Tool
+WinDoS - Windows DoS/DDoS Tool
 
 Welcome to WinDoS!
 This is a functional DDoS tool designed for Windows, created by a 15-year-old aspiring developer. My dream is to become a skilled coder, and this project is an important step in my learning journey. Please bear with me as I am still honing my programming skills, and I apologize for any bugs or issues you may encounter.
