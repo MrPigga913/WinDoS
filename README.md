@@ -6,7 +6,7 @@ This is a functional DDoS tool designed for Windows, created by a 15-year-old as
 Features:
 
 Malicious EXE Creation: Generate executable files for DDoS attacks.
-Control Panel: Manage and initiate DDoS attacks from a centralized interface.
+Control Panel: Manage and initiate DDoS/DoS attacks from a centralized interface.
 Flooding Capabilities: Start flooding a specified server with high traffic to test its resilience.
 Installation
 To get started with WinDoS, follow these steps:
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 To run WinDoS, use the following command:
 
-python windos.py
+python WinDoS.py
 
 Once the control panel is open, type help to display all available commands.
 
