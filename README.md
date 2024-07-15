@@ -13,7 +13,7 @@ To get started with WinDoS, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/WinDoS.git
+git clone https://github.com/MrPigga913/WinDoS.git
 
 Navigate to the project directory:
 
