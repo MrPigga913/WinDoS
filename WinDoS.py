@@ -308,6 +308,9 @@ def controller():
                                 colorama.Fore.RED + f"Target not reachable!" + colorama.Style.RESET_ALL)
                             split()
 
+                    else:
+                        print(colorama.Fore.RED + f"{command.strip()} is not a command!\nType help to see all commands!" + colorama.Style.RESET_ALL)
+
                 except (ConnectionError, KeyboardInterrupt):
                     for client in clients:
                         client.close()
