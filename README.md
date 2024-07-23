@@ -13,19 +13,15 @@ This is a functional DDoS tool designed for Windows, created by a 15-year-old as
 To get started with WinDoS, follow these steps:
 
 Clone the repository:
-
 ```git clone https://github.com/MrPigga913/WinDoS.git```
 
 Navigate to the project directory:
-
 ```cd WinDoS```
 
 Install the required dependencies:
-
 ```pip install -r requirements.txt```
 
 To run WinDoS, use the following command:
-
 ```python WinDoS.py```
 
 Once the control panel is open, type help to display all available commands.
